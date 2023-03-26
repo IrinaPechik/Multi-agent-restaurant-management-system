@@ -1,0 +1,61 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Steak",
+      "price": 16,
+      "prepTime": 25,
+      "available": 5,
+      "ingredients": [
+        "beef",
+        "salt",
+        "pepper",
+        "olive oil"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Spaghetti Carbonara",
+      "price": 10,
+      "prepTime": 40,
+      "available": 6,
+      "ingredients": [
+        "pasta",
+        "bacon",
+        "egg",
+        "parmesan cheese",
+        "black pepper"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Caesar Salad",
+      "price": 8,
+      "prepTime": 30,
+      "available": 7,
+      "ingredients": [
+        "romaine lettuce",
+        "croutons",
+        "parmesan cheese",
+        "chicken",
+        "caesar dressing"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Fish and Chips",
+      "price": 12,
+      "prepTime": 50,
+      "available": 8,
+      "ingredients": [
+        "cod",
+        "flour",
+        "baking powder",
+        "salt",
+        "pepper",
+        "potatoes",
+        "vegetable oil"
+      ]
+    }
+  ]
+}
